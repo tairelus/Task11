@@ -1,0 +1,1 @@
+java -classpath ./classes bjs.task11.Main
